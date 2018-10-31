@@ -26,5 +26,5 @@
 # 大数据
 - [storm](https://github.com/JeremyWang2009/blogs/issues/23)
 
-[书籍链接](http://blog.jobbole.com/106093/)
+**转**[书籍链接](http://blog.jobbole.com/106093/)
 
