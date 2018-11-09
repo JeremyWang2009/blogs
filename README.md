@@ -2,6 +2,7 @@
 **坚持读书、笔记、学习、分享，持续更新**
 # Java
 - [JVM Memory Management](https://github.com/JeremyWang2009/blogs/issues/1)
+- [JVM性能监控](https://github.com/JeremyWang2009/blogs/issues/26)
 - [ThreadLocal原理](https://github.com/JeremyWang2009/blogs/issues/3)
 - [volatile原理](https://github.com/JeremyWang2009/blogs/issues/4)
 - [Exception](https://github.com/JeremyWang2009/blogs/issues/5)
