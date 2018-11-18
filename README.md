@@ -18,7 +18,7 @@
 - [MySQL体系架构和存储引擎](https://github.com/JeremyWang2009/blogs/issues/14)
 - [InnoDB存储引擎](https://github.com/JeremyWang2009/blogs/issues/15)
 - [MySQL日志&锁&MVCC](https://github.com/JeremyWang2009/blogs/issues/17)
-- [初认Redis](https://github.com/JeremyWang2009/blogs/issues/18)
+- [Redis](https://github.com/JeremyWang2009/blogs/issues/18)
 # 网络
 - [TCP/IP基础知识](https://github.com/JeremyWang2009/blogs/issues/16)
 - [网络IO](https://github.com/JeremyWang2009/blogs/issues/22)
