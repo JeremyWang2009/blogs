@@ -31,5 +31,3 @@
 - [storm](https://github.com/JeremyWang2009/blogs/issues/23)
 # 专题
 - [分布式锁的实现](https://github.com/JeremyWang2009/blogs/issues/20)
-**转**[书籍链接](http://blog.jobbole.com/106093/)
-
