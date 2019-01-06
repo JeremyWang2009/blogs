@@ -35,3 +35,5 @@
 - [分布式锁的实现](https://github.com/JeremyWang2009/blogs/issues/20)
 - [Redisson 源码分析](https://github.com/JeremyWang2009/blogs/issues/27)
 - [Zookeeper 入门](https://github.com/JeremyWang2009/blogs/issues/28)
+# AI
+- [Python入门]()
