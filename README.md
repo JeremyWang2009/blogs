@@ -31,7 +31,7 @@
 - [storm](https://github.com/JeremyWang2009/blogs/issues/23)
 # 工具
 - [Docker](https://github.com/JeremyWang2009/blogs/issues/29)
-- [Maven](https://github.com/JeremyWang2009/blogs/issues/31)
+- [Maven依赖机制](https://github.com/JeremyWang2009/blogs/issues/31)
 # 专题
 - [分布式锁的实现](https://github.com/JeremyWang2009/blogs/issues/20)
 - [Redisson 源码分析](https://github.com/JeremyWang2009/blogs/issues/27)
