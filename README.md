@@ -36,4 +36,4 @@
 - [Redisson 源码分析](https://github.com/JeremyWang2009/blogs/issues/27)
 - [Zookeeper 入门](https://github.com/JeremyWang2009/blogs/issues/28)
 # AI
-- [Python入门]()
+- [Python入门](https://github.com/JeremyWang2009/blogs/issues/30)
