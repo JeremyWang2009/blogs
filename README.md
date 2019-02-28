@@ -43,4 +43,4 @@
 - [单元测试](https://github.com/JeremyWang2009/blogs/issues/33)
 # AI
 - [Python入门](https://github.com/JeremyWang2009/blogs/issues/30)
-- [go 入门](https://github.com/JeremyWang2009/blogs/issues/37)
+- [Go 入门](https://github.com/JeremyWang2009/blogs/issues/37)
