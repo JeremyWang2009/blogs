@@ -1,6 +1,7 @@
 # 个人博客
 **坚持读书、笔记、学习、分享，持续更新**
 # Java
+- [Java 思维导图](https://github.com/JeremyWang2009/blogs/issues/38)
 - [JVM Memory Management](https://github.com/JeremyWang2009/blogs/issues/1)
 - [JVM性能监控](https://github.com/JeremyWang2009/blogs/issues/26)
 - [ThreadLocal原理](https://github.com/JeremyWang2009/blogs/issues/3)
