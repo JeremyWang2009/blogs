@@ -43,6 +43,7 @@
 - [Zookeeper 入门](https://github.com/JeremyWang2009/blogs/issues/28)
 - [单元测试](https://github.com/JeremyWang2009/blogs/issues/33)
 - [Spring 入门](https://github.com/JeremyWang2009/blogs/issues/39)
+- [mybatis 入门](https://github.com/JeremyWang2009/blogs/issues/40)
 # AI
 - [Python入门](https://github.com/JeremyWang2009/blogs/issues/30)
 - [Go 入门](https://github.com/JeremyWang2009/blogs/issues/37)
