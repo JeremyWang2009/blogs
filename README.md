@@ -20,7 +20,7 @@
 - [finally 关键字](https://github.com/JeremyWang2009/blogs/issues/32)
 - [Threads And Locks](https://github.com/JeremyWang2009/blogs/issues/34)
 - [解惑字符串](https://github.com/JeremyWang2009/blogs/issues/41)
-- [java.util.concurrent](https://github.com/JeremyWang2009/blogs/issues/42)
+- [j.u.c 框架](https://github.com/JeremyWang2009/blogs/issues/42)
 # DB
 - [MySQL体系架构和存储引擎](https://github.com/JeremyWang2009/blogs/issues/14)
 - [InnoDB存储引擎](https://github.com/JeremyWang2009/blogs/issues/15)
