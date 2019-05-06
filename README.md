@@ -23,6 +23,7 @@
 - [j.u.c 框架](https://github.com/JeremyWang2009/blogs/issues/42)
 - [Java 并发编程的艺术](https://github.com/JeremyWang2009/blogs/issues/45)
 - [GC](https://github.com/JeremyWang2009/blogs/issues/46)
+- [JVM 诊断工具](https://github.com/JeremyWang2009/blogs/issues/47)
 # DB
 - [MySQL体系架构和存储引擎](https://github.com/JeremyWang2009/blogs/issues/14)
 - [InnoDB存储引擎](https://github.com/JeremyWang2009/blogs/issues/15)
