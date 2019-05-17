@@ -54,3 +54,14 @@
 # AI
 - [Python入门](https://github.com/JeremyWang2009/blogs/issues/30)
 - [Go 入门](https://github.com/JeremyWang2009/blogs/issues/37)
+
+
+# 书籍推荐
+- 《UNIX 编程艺术》
+- 《算法设计与应用》
+- 《深入理解Java虚拟机》
+- 《编程珠玑》
+- 《大规模分布式存储系统》
+- 《软件框架设计的艺术》
+- 《性能之巅》
+- 《码出高效》
