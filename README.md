@@ -58,12 +58,12 @@
 
 # 书籍推荐
 - [《UNIX 编程艺术》](https://book.douban.com/subject/1467587/)
-- 《算法设计与应用》
-- 《深入理解Java虚拟机》
-- 《编程珠玑》
-- 《大规模分布式存储系统》
-- 《软件框架设计的艺术》
-- 《性能之巅》
-- 《码出高效》
-- 《逆流而上》
+- [《算法设计与分析基础》](https://book.douban.com/subject/26337727/)
+- [《深入理解Java虚拟机》](https://book.douban.com/subject/24722612/)
+- [《编程珠玑》](https://book.douban.com/subject/3227098/)
+- [《大规模分布式存储系统》](https://book.douban.com/subject/25723658/)
+- [《软件设计的艺术》](https://book.douban.com/subject/1244410/)
+- [《性能之巅》](https://book.douban.com/subject/26586598/)
+- [《码出高效》](https://book.douban.com/subject/30333948/)
+- [《逆流而上》](https://book.douban.com/subject/27204591/)
 - (《推荐书籍》)[https://xu1009.github.io/2017/09/04/记录一下大神给推荐的书籍哈/]
