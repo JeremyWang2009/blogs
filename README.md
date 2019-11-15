@@ -57,7 +57,7 @@
 
 
 # 书籍推荐
-- 《UNIX 编程艺术》
+- [《UNIX 编程艺术》](https://book.douban.com/subject/1467587/)
 - 《算法设计与应用》
 - 《深入理解Java虚拟机》
 - 《编程珠玑》
